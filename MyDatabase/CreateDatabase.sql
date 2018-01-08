@@ -3,6 +3,9 @@ GO
 
 USE TaylorDB
 
+CREATE TABLE T1
+()
+
 /*Create tables*/
 
 /*Insert test data*/
